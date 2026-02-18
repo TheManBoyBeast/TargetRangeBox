@@ -1,0 +1,11 @@
+## Interface: 50503
+## Title: TargetRangeBox
+## Notes: A lightweight target range indicator box that changes colors for spell/item checks and optional close-range proxies with per-character settings and global profiles.
+## Author: TheManBoyBeast
+## Version: 2.0.3
+## SavedVariables: TargetRangeBoxProfilesDB
+## SavedVariablesPerCharacter: TargetRangeBoxDB
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+TargetRangeBox.lua
